@@ -5,13 +5,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sarman03&label=Profile%20views&color=0e75b6&style=flat" alt="sarman03" /> </p>
 
-- 🔭 I’m currently working on **UI/UX design**
+-  I’m currently working on **UI/UX design**
 
-- 🌱 I’m currently learning **DSA, graphics designing**
+-  I’m currently learning **DSA, graphics designing**
 
-- 💬 Ask me about **Photoshop, Figma, DSA**
+-  Ask me about **Photoshop, Figma, DSA**
 
-- 📫 How to reach me **sarmanpreets.it.22@nitj.ac.in**
+-  How to reach me **sarmanpreets.it.22@nitj.ac.in**
 
 - ⚡ Fun fact **I am funny...**
 
