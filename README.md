@@ -13,8 +13,6 @@
 
 -  How to reach me **sarmanpreets.it.22@nitj.ac.in**
 
-- ⚡ Fun fact **I am funny...**
-
 
 
 <h3 align="left">Languages and Tools:</h3>
