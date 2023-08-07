@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **UI/UX design**
 
-- 🌱 I’m currently learning **DSA, graphics designing**
+- 🌱 I’m currently learning **DSA**
 
 - 💬 Ask me about **Photoshop, Figma, DSA**
 
