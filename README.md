@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Sarman and I'm a IT Undergrad working on full stack development and DSA in C++.</h2>
+<h2 align="left">Hi 👋! My name is Sarman and I'm a IT Undergrad working on full stack development and DSA in C++ .</h2>
 
 ###
 
