@@ -3,11 +3,13 @@
 ###
 
 <div align="center">
-  # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=sarman03&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=sarman03&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=sarman03&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+  
+  <img src="https://github-readme-stats.vercel.app/api?username=sarman03&theme=dark&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats" />
 
+  <img src="https://streak-stats.demolab.com?user=sarman03&theme=dark&hide_border=false" alt="GitHub Streak" />
+
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sarman03&theme=dark&hide_border=false&layout=compact" alt="Top Languages" />
+  
 </div>
 
 ###
