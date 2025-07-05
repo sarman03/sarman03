@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! I'm Sarman — an IT undergrad diving deep into Full Stack Development & DSA in C++</h2>
+<h2 align="left">Hi ! I'm Sarman — an IT undergrad diving deep into Full Stack Development & DSA in C++</h2>
 
 ###
 
